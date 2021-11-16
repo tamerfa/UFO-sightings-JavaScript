@@ -22,11 +22,11 @@ populateData(tableData);
 var button = d3.select("#filter-btn");
 
 // Getting a reference to the input field
-var inputField = d3.select(".filters");
+var form = d3.select("form");
 
 // Create event handlers 
 button.on("click", runEnter);
-inputField.on("submit",runEnter);
+form.on("submit",runEnter);
 
 // Complete the event handler function for the form
 function runEnter() {
