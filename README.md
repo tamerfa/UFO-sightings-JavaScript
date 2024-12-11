@@ -2,7 +2,7 @@
 
 ## Background
 
-A code is needed to create a table dynamically based upon [this dataset of UFO sightings](StarterCode/static/js/data.js). Also, users need to be allowed to filter the table data for specific values. 
+A code is needed to create a table dynamically based upon [this dataset of UFO sightings](UFO-level-1/static/js/data.js). Also, users need to be allowed to filter the table data for specific values. 
 
 ## Task
 
@@ -28,11 +28,15 @@ A code is needed to create a table dynamically based upon [this dataset of UFO s
   4. `country`
   5. `shape`
 
+Below is an example for UFO Sightings web page filtered for triangle shaped UFO's seen in California 
+
+![UFO Sightings web page filtered for triangle shaped UFO's seen in California](./Screenshot%20of%20filtered%20data%20of%20UFO%20Finder.png)
+
 - - -
 
 ### Dataset
 
-* [UFO Sightings Data](StarterCode/static/js/data.js)
+* [UFO Sightings Data](UFO-level-1/static/js/data.js)
 
 - - -
 
